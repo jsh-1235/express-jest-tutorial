@@ -58,7 +58,7 @@ jobs:
           # Required recipients' addresses:
           to: btjsh1235@gmail.com
           # Required sender full name (address can be skipped):
-          from: bt_jsh@naver.com # <user@example.com>
+          from: btjsh1235@gmail.com # <user@example.com>
           # Optional plain body:
           body: Build job of ${{github.repository}} completed successfully!
           # Optional HTML body read from file:
