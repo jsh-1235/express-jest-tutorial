@@ -47,7 +47,7 @@
 - git diff
 - git add .
 - git status
-- git commit -m "init"
+- git commit -m "initialize"
 - git commit --amend -m "update"
 - git log --all --graph --oneline
 - `git remote add origin https://github.com/jsh-1235/express-jest-tutorial.git`
